@@ -2,17 +2,17 @@
 In this module you will learn how to construct HTML documents and add basic styling and layout using CSS.
 ### HTML 
 - structure
-- common HTML tags
-    -- Headings:h1, h2, ...h6
-    -- Paragraphs: p
-    -- Line breaks: br
-    -- Lists: ul, ol
-    -- Texts: strong, b, em, i
-    -- Content divison: div
-    -- Link documents: a
-    -- Images: img
-    -- Tables: table, tr,td
-    -- Forms: form
+- common HTML tags 
+    - Headings:h1, h2, ...h6
+    - Paragraphs: p
+    - Line breaks: br
+    - Lists: ul, ol
+    - Texts: strong, b, em, i
+    - Content divison: div
+    - Link documents: a
+    - Images: img
+    - Tables: table, tr,td
+    - Forms: form
 - What is DOM?
 - Web accessiblity
 
