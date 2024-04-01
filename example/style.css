@@ -1,0 +1,30 @@
+/* Element with Class Selector */
+/* .navigation{
+  margin: 2px;
+} */
+p.navigation { 
+  color: purple;
+}
+
+/* Descendant Selectors */
+/* h1{
+  color: green;
+} */
+#blog h1 {
+    border-style: dotted;
+    border-width: thick;
+    color: red;
+}
+/* #blog div h1 {
+  color: blue;
+} */
+
+/* Child Selectors */
+#blog > h1{
+  color: blue;
+}
+
+/* :hover Pseudo-Class */
+a:hover {
+  color: orange;
+}
