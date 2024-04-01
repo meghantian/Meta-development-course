@@ -73,7 +73,7 @@ About common properities like text color and alignment.
 
 #### Box model
 When an HTML document and CSS style sheet are downloaded, the web browser needs to know how to display the elements on the screen. To do this, it allocates a rectangle or box to each element. CSS rules are applied to the boxes of the elments. This is known as the box model.
-<img src="/pcs/boxmodel.jpg" width="200px" />
+![pcs](/pcs/boxmodel.jpg "Box model")
 Each box consists of 4 parts: the content, the padding, the border and the margin. The content is actually the content of the element.Its size is known as content width and content height. By default, browsers are clever and will calculate the width and height based on the content itself. We can also control the size to manipulate the layout by using the following css rules.
 ```
 width:1px;
