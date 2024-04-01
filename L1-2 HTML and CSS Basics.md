@@ -88,3 +88,8 @@ The margin is the empty space keeping elements apart. <br>
 ## Document flow: block vs inline
 How does the web browser know where to place the elements on the screen? The web browser normal way of calculating the position of html elements on the screen is called document flow. By default, nearly all html elements are organized into one of two catergories namely in block and inline elements.
 
+A block level element will occupy the full horizontal width of its parent element and the vertical height of its content. Each block level element will have a new line before and after. Therefore, multiple block level element will stack on top of each other like a stack of boxes. Examples include div, form and headings.
+
+Inline elements only occupy the width and height of their content. They don't appear on a new line.Examples include a, img, input, label, b, i, em, span.
+
+We can change the *display* property to switch the block or inline elements.
